@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning lower level programming
 - 💞️ I’m looking to collaborate on projecs I have more understanding about
 - 📫 How to reach me andrezito300@gmail.com
+- ⚛️ Now studying physics
 
 <!---
 SunkPlane29/SunkPlane29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
