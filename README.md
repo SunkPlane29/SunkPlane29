@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SunkPlane29
 - 👀 I’m interested in mostly everything
-- 🌱 I’m currently learning lower level programming
 - 💞️ I’m looking to collaborate on projecs I have more understanding about
 - 📫 How to reach me andrezito300@gmail.com
 - ⚛️ Now studying physics
